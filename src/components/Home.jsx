@@ -13,23 +13,25 @@ const Home = () => {
               Aman Kumar
             </h1>
             <h3 className='bg-gradient-to-r from-teal-400 to-teal-600 bg-clip-text text-xl font-semibold text-transparent md:text-2xl lg:text-3xl'>
-              Web Developer
+              UX Designer & Researcher
             </h3>
             <p className='max-w-[500px] text-sm text-gray-500'>
-              I am a UI designer and developer based out of Pune, interested in UI design and development. Contact me to design and develop any website you want.
+              I am a results-oriented UX Designer and Researcher with expertise in building digital experiences that are data-driven and detail-oriented.
             </p>
             <p className='max-w-[500px] text-sm text-gray-500'>
-              I am a UI designer and developer based out of Pune, interested in UI design and development. Contact me to design and develop any website you want.
+              I have almost 1 year of experience and I deliver clean, accessible and impactful digital experiences.
             </p>
             <p className='max-w-[500px] text-sm text-gray-500'>
-              I am a UI designer and developer based out of Pune, interested in UI design and development. Contact me to design and develop any website you want.
+              I like wireframing, designing, prototyping and researching.
+            </p>
+            <p className='max-w-[500px] text-sm text-gray-500'>
+              I also do development.
             </p>
           </div>
           <div className='flex gap-3'>
-            <BiLogoGithub className='h-10 w-10 cursor-pointer rounded-full border-2 border-transparent bg-teal-600 p-2 text-white transition-all duration-200 hover:scale-110 hover:border-teal-600 hover:bg-white hover:text-teal-600 md:h-12 md:w-12' />
-            <BiLogoLinkedin className='h-10 w-10 cursor-pointer rounded-full border-2 border-transparent bg-teal-600 p-2 text-white transition-all duration-200 hover:scale-110 hover:border-teal-600 hover:bg-white hover:text-teal-600 md:h-12 md:w-12' />
-            <BiLogoBehance className='h-10 w-10 cursor-pointer rounded-full border-2 border-transparent bg-teal-600 p-2 text-white transition-all duration-200 hover:scale-110 hover:border-teal-600 hover:bg-white hover:text-teal-600 md:h-12 md:w-12' />
-            <BiLogoMedium className='h-10 w-10 cursor-pointer rounded-full border-2 border-transparent bg-teal-600 p-2 text-white transition-all duration-200 hover:scale-110 hover:border-teal-600 hover:bg-white hover:text-teal-600 md:h-12 md:w-12' />
+            <a href="https://www.linkedin.com/in/amankumarprof4/" target="_blank" rel="noopener noreferrer"> <BiLogoLinkedin className="h-10 w-10 cursor-pointer rounded-full border-2 border-transparent bg-teal-600 p-2 text-white transition-all duration-200 hover:scale-110 hover:border-teal-600 hover:bg-white hover:text-teal-600 md:h-12 md:w-12"/> </a>
+            <a href="https://www.behance.net/uiaman" target="_blank" rel="noopener noreferrer"> <BiLogoBehance className="h-10 w-10 cursor-pointer rounded-full border-2 border-transparent bg-teal-600 p-2 text-white transition-all duration-200 hover:scale-110 hover:border-teal-600 hover:bg-white hover:text-teal-600 md:h-12 md:w-12"/> </a>
+            <a href="https://medium.com/@amansocial22" target="_blank" rel="noopener noreferrer"> <BiLogoMedium className="h-10 w-10 cursor-pointer rounded-full border-2 border-transparent bg-teal-600 p-2 text-white transition-all duration-200 hover:scale-110 hover:border-teal-600 hover:bg-white hover:text-teal-600 md:h-12 md:w-12"/> </a>
           </div>
         </div>
 
